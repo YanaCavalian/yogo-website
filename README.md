@@ -4,10 +4,10 @@ Hello! This is the "YOGA" web page model. The web page has color schemes, images
 https://yanacavalian.github.io/yogo-website/
 
 # technologies
-HTML 
-CSS 
-JavaScript
-Images
-Forms
-Icons
-Links and URLs
+- HTML 
+- CSS 
+- JavaScript
+- Images
+- Forms
+- Icons
+- Links and URLs
